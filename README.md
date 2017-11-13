@@ -1,2 +1,5 @@
 # hello-world
-My first git repository.
+
+I'm dipping my toes into the deep dark waters of git.
+
+
